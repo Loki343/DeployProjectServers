@@ -1,5 +1,5 @@
 {
-    "products": [
+    "NykaaProducts": [
       {
         "id": 1,
         "title":"Maybelline New York Fit Me Matte+Poreless Liquid",
@@ -169,7 +169,7 @@
         "brand":"MAC"
       }
     ],
-    "prod": [
+    "NykaaProd": [
       {
         "id":1
       }
