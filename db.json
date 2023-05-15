@@ -174,5 +174,7 @@
       "id": 1
     }
   ],
-  "NykaaUsers": []
+  "NykaaUsers": [
+    { "name": "Kausik", "email": "k@gmail.com", "Password": "1234", "id": 1 }
+  ]
 }
