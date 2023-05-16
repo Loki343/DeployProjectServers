@@ -176,5 +176,6 @@
   ],
   "NykaaUsers": [
     { "name": "Kausik", "email": "k@gmail.com", "Password": "1234", "id": 1 }
-  ]
+  ],
+  "NykaaCart":[]
 }
