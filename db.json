@@ -175,7 +175,24 @@
     }
   ],
   "NykaaUsers": [
-    { "name": "Kausik", "email": "k@gmail.com", "Password": "1234", "id": 1 }
+    {
+      "name": "Loki",
+      "email": "kausikbhaumik420@gmail.com",
+      "Password": "1234",
+      "fullname": "Loki Gabriel",
+      "country": "India",
+      "phone": "7980710518",
+      "id": 2
+    },
+    {
+      "name": "Kausik",
+      "email": "kausik@gmail.com",
+      "Password": "1234",
+      "fullname": "Kausik Bhaumik",
+      "country": "India",
+      "phone": "9038160021",
+      "id": 2
+    }
   ],
   "NykaaCart": [],
   "elskerUsers": [
